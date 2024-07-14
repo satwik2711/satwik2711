@@ -1,7 +1,7 @@
 # ErgoEdge 🦦
 Final year undergrad who clings to his meaningless digital handle a bit too much
 ## About Me
-I'm a simple man - I like triangles, meticulously organizing playlists or chasing the perfect Lightroom preset
+I'm a simple guy - I like triangles, meticulously organizing playlists or chasing the perfect Lightroom preset
 
 <!-- ## Code Snippet -->
 ```python
