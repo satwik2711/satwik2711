@@ -5,12 +5,12 @@ I'm a simple man - I like triangles, meticulously organizing playlists or chasin
 
 <!-- ## Code Snippet -->
 ```python
-class IdontKnowMyself:
+class Basic:
     def __init__(self):
         self.name = "Satwik Pandey"
         self.interests = "building bones and weaving minds[backend & nlp]"
         self.position = "Noida"
-        self.display = "male"
+        self.display = "he/him"
         self.background = "CS Engineering Student"
         self.experience = 3  # Years
         self.accent = "indian"
@@ -19,5 +19,5 @@ class IdontKnowMyself:
     def __str__(self):
         return f"{self.name}, {self.position}, {self.quotes}"
 
-person = IdontKnowMyself()
+person = Basic()
 print(person)
