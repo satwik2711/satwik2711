@@ -12,7 +12,7 @@ class IdontKnowMyself:
         self.position = "Noida"
         self.display = "male"
         self.background = "CS Engineering Student"
-        self.background_size = 3  # Years
+        self.experience = 3  # Years
         self.accent = "indian"
         self.quotes = "Nothing hurts anymore, I feel kinda free"
 
