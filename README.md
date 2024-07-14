@@ -23,6 +23,3 @@ person = Basic()
 print(person)
 
 ```
-<a href="https://natemoo-9q1lnzr4s-satwik2711s-projects.vercel.app/now-playing?open">
-    <img src="https://natemoo-9q1lnzr4s-satwik2711s-projects.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
