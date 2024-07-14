@@ -19,5 +19,5 @@ class IdontKnowMyself:
     def __str__(self):
         return f"{self.name}, {self.position}, {self.quotes}"
 
-student = CSEStudent()
-print(student)
+person = IdontKnowMyself()
+print(person)
