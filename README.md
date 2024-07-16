@@ -24,5 +24,5 @@ print(person)
 
 ```
 
-**[Song Title](https://open.spotify.com/embed/track/346SJSEbB6pNZMpwovxDiu?utm_source=generator)**
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/346SJSEbB6pNZMpwovxDiu?si=f67bfe5d71ca49d1)
 
