@@ -24,5 +24,4 @@ print(person)
 
 ```
 
-[![Spotify](https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/track/346SJSEbB6pNZMpwovxDiu?si=f67bfe5d71ca49d1)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31s5p34tbtnxqkxedzw76h662eci&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
