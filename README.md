@@ -24,4 +24,4 @@ print(person)
 
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31s5p34tbtnxqkxedzw76h662eci&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31s5p34tbtnxqkxedzw76h662eci&cover_image=true&theme=default&show_offline=false&background_color=567c81&interchange=true&bar_color=e88c9a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
